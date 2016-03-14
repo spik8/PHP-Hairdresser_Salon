@@ -5,12 +5,12 @@ App::uses('AppController', 'Controller');
 class EmployeesController extends AppController {
 
 	public function index() {
-		$this->set('employees' . '',$this->Employee->find('all'));
+		$this->set('employees',$this->Employee->find('all'));
 	}
 
 
 	public function view($id = null) {
-		$this->set('Pracownik', $this->Employee->findByid($id));
+		$this->set('employee', $this->Employee->findByid($id));
 	}
 
 

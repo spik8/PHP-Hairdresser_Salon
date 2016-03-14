@@ -3,22 +3,22 @@
 	<dl>
 		<dt><?php echo __('Id:'); ?></dt>
 		<dd>
-			<?php echo h($Employee['Employee']['id']); ?>
+			<?php echo h($employee['Employee']['id']); ?>
 			&nbsp;
 		</dd>
 		<dt><?php echo __('Imie:'); ?></dt>
 		<dd>
-			<?php echo h($Employee['Employee']['first_name']); ?>
+			<?php echo h($employee['Employee']['first_name']); ?>
 			&nbsp;
 		</dd>
 		<dt><?php echo __('Nazwisko:'); ?></dt>
 		<dd>
-			<?php echo h($Employee['Employee']['last_name']); ?>
+			<?php echo h($employee['Employee']['last_name']); ?>
 			&nbsp;
 		</dd>       
 		<dt><?php echo __('Salon ID:'); ?></dt>
 		<dd>
-			<?php echo h($Employee['Employee']['salons_id']); ?>
+			<?php echo h($employee['Employee']['salons_id']); ?>
 			&nbsp;
 		</dd>
 	
