@@ -12,31 +12,31 @@
 <h1>Cele do 22.03</h1>
 
 <h3>Paweł Czuchaj</h3>
-kontroler - services
-widok (index,view,add,edit)
-model - service
+kontroler - services </br>
+widok (index,view,add,edit)</br>
+model - service</br>
 
 <h3>Tomasz Kłyż </h3>
-kontroler - users
-widok (index,view,add,edit)
-model - user
+kontroler - users</br>
+widok (index,view,add,edit)</br>
+model - user</br>
 
 <h3></h3>
-kontroler - employees
-widok (index,view,add,edit)
-model - employee
+kontroler - employees</br>
+widok (index,view,add,edit)</br>
+model - employee</br>
 
 <h3></h3>
-kontroler - reservations
-widok (index,view,add,edit)
-model - reservation
+kontroler - reservations</br>
+widok (index,view,add,edit)</br>
+model - reservation</br>
 
 <h3>Sebastian Cytawa</h3>
-kontroler - salons
-widok (index,view,add,edit)
-model - salon
+kontroler - salons</br>
+widok (index,view,add,edit)</br>
+model - salon</br>
 
-Rejestr produktu - Kamil Chmielowski
+Rejestr produktu - Kamil Chmielowski</br>
 
 
 
