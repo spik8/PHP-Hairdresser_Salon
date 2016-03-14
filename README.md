@@ -36,8 +36,8 @@ kontroler - salons</br>
 widok (index,view,add,edit)</br>
 model - salon</br>
 
-Rejestr produktu - Kamil Chmielowski</br>
-
+<h3>Kamil Chmielowski</h3></br>
+Rejestr produktu -
 
 
 
