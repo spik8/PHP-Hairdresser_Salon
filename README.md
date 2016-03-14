@@ -1,22 +1,57 @@
 # C-Hairdresser_Salon</br>
  Grupa :</br>
 1.Kamil Chmielowski</br>
-2.Rafa≥ DurzyÒski</br>
+2.Rafa≈Ç Durzy≈Ñski</br>
 3.Mateusz Charkot</br>
-4.Tomasz K≥yø</br>
+4.Tomasz K≈Çy≈º</br>
 5.Sebastian Cytawa</br>
-6.Pawe≥ Czuchaj</br>
+6.Pawe≈Ç Czuchaj</br>
 7.Kamil Jonaszko</br>
 
+
+<h1>Cele do 22.03</h1>
+
+<h3>Pawe≈Ç Czuchaj</h3>
+kontroler - services
+widok (index,view,add,edit)
+model - service
+
+<h3>Tomasz K≈Çy≈º </h3>
+kontroler - users
+widok (index,view,add,edit)
+model - user
+
+<h3></h3>
+kontroler - employees
+widok (index,view,add,edit)
+model - employee
+
+<h3></h3>
+kontroler - reservations
+widok (index,view,add,edit)
+model - reservation
+
+<h3>Sebastian Cytawa</h3>
+kontroler - salons
+widok (index,view,add,edit)
+model - salon
+
+Rejestr produktu - Kamil Chmielowski
+
+
+
+
+
+
 <h1>Cele do 15.03</h1>
- <h2>Kaødy ma mieÊ wyznaczony cell!<h2>
-  <h3>Nie wysy≥aÊ czegoú co nie dzia≥a</h3>
+ <h2>Ka≈ºdy ma mieƒá wyznaczony cell!<h2>
+  <h3>Nie wysy≈Çaƒá czego≈õ co nie dzia≈Ça</h3>
 1.Kamil Chmielowski</br>
-2.Rafa≥ DurzyÒski - StworzyÊ(widok, kontroler) dla Zak≥adÛw</br>
+2.Rafa≈Ç Durzy≈Ñski - Stworzyƒá(widok, kontroler) dla Zak≈Çad√≥w</br>
 3.Mateusz Charkot</br>
-4.Tomasz K≥yø - StworzyÊ(widok, kontroler) dla uøytkownikÛw oraz po≥πczenie z zewnÍtrznπ bazπ danych</br>
-5.Sebastian Cytawa - StworzyÊ(widok, kontroler) dla Rezerwacji</br>
-6.Pawe≥ Czuchaj - StworzyÊ(widok, kontroler) dla  Us≥ug</br>
+4.Tomasz K≈Çy≈º - Stworzyƒá(widok, kontroler) dla u≈ºytkownik√≥w oraz po≈ÇƒÖczenie z zewnƒôtrznƒÖ bazƒÖ danych</br>
+5.Sebastian Cytawa - Stworzyƒá(widok, kontroler) dla Rezerwacji</br>
+6.Pawe≈Ç Czuchaj - Stworzyƒá(widok, kontroler) dla  Us≈Çug</br>
 7.Kamil Jonaszko</br>
 
 Dostepne zadania:
@@ -24,11 +59,11 @@ Dostepne zadania:
 
 <h1>Stan z 07.03.2016</h1>
 1.Kamil Chmielowski - stworzenie wzorcowej bazy danych </br>
-2.Rafa≥ DurzyÒski -</br>
+2.Rafa≈Ç Durzy≈Ñski -</br>
 3.Mateusz Charkot -</br>
-4.Tomasz K≥yø - dodanie tutoriali z mvc.asp</br>
+4.Tomasz K≈Çy≈º - dodanie tutoriali z mvc.asp</br>
 5.Sebastian Cytawa - dodanie pustego wzorca na github</br>
-6.Pawe≥ Czuchaj</br>
+6.Pawe≈Ç Czuchaj</br>
 7.Kamil Jonaszko - stworzenie grupy na facebook</br>
 
 KCH 7-03-2015 wykonalem baze danych Salonu</br>
