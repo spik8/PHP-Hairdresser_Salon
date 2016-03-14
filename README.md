@@ -22,7 +22,7 @@ kontroler - users</br>
 widok (index,view,add,edit)</br>
 model - user</br>
 
-<h3></h3>
+<h3>Rafał Durzyński</h3>
 kontroler - employees</br>
 widok (index,view,add,edit)</br>
 model - employee</br>
