@@ -11,6 +11,11 @@
 			<?php echo h($salon['Salon']['name']); ?>
 			&nbsp;
 		</dd>
+		<dt><?php echo __('Zdjęcie'); ?></dt>
+		<dd>
+			<?php echo $this->Html->image('../files/salon/filename/'.$salon['Salon']['id'].'/'.$salon['Salon']['filename']); ?></td>
+			&nbsp;
+		</dd>
 		<dt><?php echo __('Miasto:'); ?></dt>
 		<dd>
 			<?php echo h($salon['Salon']['city']); ?>

@@ -23,4 +23,10 @@ App::uses('AppModel', 'Model');
 
 class Salon extends AppModel {
 
+    public $useTable = 'salons';
+
+    var $actsAs = array(
+        'Upload' => array('filename')
+    );
+
 }

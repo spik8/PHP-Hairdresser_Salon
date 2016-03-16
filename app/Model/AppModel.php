@@ -30,4 +30,6 @@ App::uses('Model', 'Model');
  * @package       app.Model
  */
 class AppModel extends Model {
+    public $components = array('Flash');
+    //CakeLog::write('debug', 'myArray22222'.print_r($this->request->data, true) );  Debug
 }
