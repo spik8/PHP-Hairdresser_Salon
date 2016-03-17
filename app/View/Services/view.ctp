@@ -6,6 +6,17 @@
 			<?php echo h($service['Service']['id']); ?>
 			&nbsp;
 		</dd>
+		<dt><?php echo __('Salon:'); ?></dt>
+		<dd>
+			<?php
+			foreach($salons as $salon)
+			{
+				if($salon['Salon']['id'] == $service['Service']['salons_id'])
+					echo "<td>".$salon['Salon']['name']."</td>";
+			}
+			?>
+			&nbsp;
+		</dd>
 		<dt><?php echo __('Nazwa:'); ?></dt>
 		<dd>
 			<?php echo h($service['Service']['service_name']); ?>

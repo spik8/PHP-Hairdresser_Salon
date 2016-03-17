@@ -6,6 +6,7 @@ class SalonsController extends AppController {
 
 	public function index() {
 		$this->set('salons',$this->Salon->find('all'));
+		return $this->Salon->find('all');
 	}
 
 
