@@ -8,10 +8,21 @@
 6.Paweł Czuchaj</br>
 7.Kamil Jonaszko</br>
 <h1>Baza Danych</h1>
-<img src="https://scontent-waw1-1.xx.fbcdn.net/hphotos-xft1/t31.0-8/12841369_1131449470220199_4555738416939327465_o.jpg" height="200" width="400">
+Jej stan zmienia sie na bieżąco, korzystać z workbench aby zobaczyć aktualny stan.
+
+<h1>Nowe Zadania</h1>
+<ul>
+<li> Każdy dla swojego kontrolera robi walidacje danych w modelu (patrz model salon)</li>
+<li> Jeśli ktoś w w swojej części  ma obce id np users_id, zrobić z tego listę nazw(zamiast id, patrz services)</li>
+<li> Zmienić edit tak aby były pokazane na formatce stare dane(patrz edit services)</li>
+<li> Zmienić wygląd strony home(ustawić css)</li>
+<li> Zrobić logo dla strony</li>
+<li> Zrobić menu do header'a</li>
+<li> Zrobić logowanie i wylogowywanie.</li>
+<li> Naprawić autoinkrementacje na skok o 1(teraz każdy nowy id jest ze skokiem o 10)</li>
+</ul>
 
 <h1>Stan z 14.03</h1>
-
 <h3>Paweł Czuchaj</h3>
 kontroler - services </br>
 widok (index,view,add,edit)</br>
@@ -27,7 +38,7 @@ kontroler - employees</br>
 widok (index,view,add,edit)</br>
 model - employee</br>
 
-<h3></h3>
+<h3>Kamil Jonaszko</h3>
 kontroler - reservations</br>
 widok (index,view,add,edit)</br>
 model - reservation</br>
