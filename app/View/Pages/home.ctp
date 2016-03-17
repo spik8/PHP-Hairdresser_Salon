@@ -1,1 +1,2 @@
-<h1>Strona Main</h1>
+
+<?php echo $this->Element('body');?>

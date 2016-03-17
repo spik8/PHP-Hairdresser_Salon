@@ -4,6 +4,7 @@
 		<thead>
 		<tr>
 			<th><?php echo 'id'; ?></th>
+			<th><?php echo 'Salon:'; ?></th>
 			<th><?php echo 'Nazwa Usługi'; ?></th>
 			<th><?php echo 'Czas trwania(min)'; ?></th>
 			<th><?php echo 'Cena'; ?></th>
@@ -14,6 +15,15 @@
 		<?php foreach ($services as $service): ?>
 			<tr>
 				<td><?php echo h($service['Service']['id']); ?></td>
+
+				<?php // znajdz id salonu w tabeli service "join"
+					// w kontrolerz ustaw salon jako find all
+					foreach($salons as $salon)
+					{
+						if($salon['Salon']['id'] == $service['Service']['salons_id'])
+							echo "<td>".$salon['Salon']['name']."</td>";
+					}
+				?>
 				<td><?php echo h($service['Service']['service_name']); ?></td>
 				<td><?php echo h($service['Service']['service_time']); ?></td>
 				<td><?php echo h($service['Service']['price']); ?></td>
